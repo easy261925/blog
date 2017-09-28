@@ -10,4 +10,4 @@
 ## 后端相关
 ## 跨平台相关
 
-**注意: 如需转载，请标明出处 https://github.com/QC-L/blog **
+**注意: 如需转载，请标明出处 https://github.com/QC-L/blog**
