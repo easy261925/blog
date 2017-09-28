@@ -1,8 +1,8 @@
 # QC.L's Blog
-欢迎start或watch，请不要fork。
-**请不要编写issues! 请不要编写issues! 请不要编写issues!** 
-重要的事说三遍
-之前一直在简书上写博客，现在准备移植到Github上，同时也会维护一个自己的网站。
+欢迎start或watch，请不要fork。<br><br>
+**请不要编写issues! 请不要编写issues! 请不要编写issues!** <br><br>
+重要的事说三遍<br><br>
+之前一直在简书上写博客，现在准备移植到Github上，同时也会维护一个自己的网站。<br><br>
 欢迎大家持续关注!
 ## iOS相关
 * [在iPhone X上构建你的APP](https://github.com/QC-L/blog/issues/5)
