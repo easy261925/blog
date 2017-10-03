@@ -19,8 +19,10 @@
 * [基于vue-cli脚手架工具构建Vue项目](https://github.com/QC-L/blog/issues/6)
 #### Angular
 #### ES5
+* Array新增函数详解
 #### ES6
 #### 前端面试
+#### 实战
 ## 后端相关
 ## 跨平台相关
 * [ReactNative - 打离线包 (二) 携程Moles-Packer框架命令打包](https://github.com/QC-L/blog/issues/4)
