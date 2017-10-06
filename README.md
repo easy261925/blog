@@ -12,7 +12,7 @@
 ## 前端相关
 #### React
 * [Redux使用指南](https://github.com/QC-L/blog/issues/)
-* Redux源码分析
+* [Redux源码分析](https://github.com/QC-L/blog/issues/)
 * React-Router使用指南
 * React-Router源码分析
 #### Preact
