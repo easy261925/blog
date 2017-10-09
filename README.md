@@ -11,6 +11,7 @@
 * [AFNetworking3.0迁移指南](https://github.com/QC-L/blog/issues/1)
 ## 前端相关
 #### React
+* [React系列教程 - learning-react.js](https://github.com/QC-L/learning-react.js)
 * [Redux使用指南](https://github.com/QC-L/blog/issues/)
 * [Redux源码分析](https://github.com/QC-L/blog/issues/)
 * [React-Router使用指南](https://github.com/QC-L/blog/issues/)
