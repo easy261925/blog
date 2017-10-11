@@ -32,7 +32,7 @@
 #### Node.js
 * [Node.js系列教程 - learning-node.js](https://github.com/QC-L/learning-node.js)
 #### MySQL
-* [CentOS 6.5 下安装 MySQL](https://github.com/QC-L/blog/issues/7)
+* [CentOS 6.5 下 yum 安装 MySQL](https://github.com/QC-L/blog/issues/7)
 ## 跨平台相关
 * [ReactNative - 打离线包 (二) 携程Moles-Packer框架命令打包](https://github.com/QC-L/blog/issues/4)
 * [ReactNative - 打离线包 (一) 原生RN命令打包](https://github.com/QC-L/blog/issues/3)
