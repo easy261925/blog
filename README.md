@@ -18,11 +18,14 @@
 * [React-Router源码分析](https://github.com/QC-L/blog/issues/)
 * dva项目实践
 #### Preact
+* Preact项目实践
 * Preact源码分析
 #### Vue
 * [基于vue-cli脚手架工具构建Vue项目](https://github.com/QC-L/blog/issues/6)
+* vuex项目实践
 #### Angular
 #### 框架对比
+* vuex 与 redux 对比
 #### ES5
 * Array新增函数详解
 #### ES6
