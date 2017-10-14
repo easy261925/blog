@@ -23,6 +23,7 @@
 #### Vue
 * [基于vue-cli脚手架工具构建Vue项目](https://github.com/QC-L/blog/issues/6)
 * vuex项目实践
+* vue-router
 #### Angular
 #### 框架对比
 * vuex 与 redux 对比
