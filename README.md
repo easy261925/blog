@@ -34,6 +34,8 @@
 * 面试题分析(一)
 #### 实战
 ## 后端相关
+#### Python
+* Python爬虫入门
 #### Node.js
 * [Node.js系列教程 - learning-node.js](https://github.com/QC-L/learning-node.js)
 #### MySQL
