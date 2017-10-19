@@ -22,6 +22,7 @@
 * Preact源码分析
 #### Vue
 * [基于vue-cli脚手架工具构建Vue项目](https://github.com/QC-L/blog/issues/6)
+* Vue系列教程 - learning-vue.js
 * vuex项目实践
 * vue-router
 #### Angular
