@@ -12,10 +12,10 @@
 ## 前端相关
 #### React
 * [React系列教程 - learning-react.js](https://github.com/QC-L/learning-react.js)
-* [Redux使用指南](https://github.com/QC-L/blog/issues/)
-* [Redux源码分析](https://github.com/QC-L/blog/issues/)
-* [React-Router使用指南](https://github.com/QC-L/blog/issues/)
-* [React-Router源码分析](https://github.com/QC-L/blog/issues/)
+* Redux使用指南
+* Redux源码分析
+* React-Router使用指南
+* React-Router源码分析
 * dva项目实践
 #### Preact
 * Preact项目实践
