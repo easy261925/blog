@@ -26,6 +26,9 @@
 * vuex项目实践
 * vue-router
 #### Angular
+#### webpack
+#### gulp
+#### rollup
 #### 框架对比
 * vuex 与 redux 对比
 #### ES5
