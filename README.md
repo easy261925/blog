@@ -25,6 +25,7 @@
 * Vue系列教程 - learning-vue.js
 * vuex项目实践
 * vue-router
+* element-ui
 #### Angular
 #### webpack
 #### gulp
