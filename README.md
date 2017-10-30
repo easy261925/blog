@@ -41,6 +41,7 @@
 #### 实战
 #### 分享感悟
 * AlloyTeam Conf 2017 参会感悟(一): 关于错误上报
+* AlloyTeam Conf 2017 参会感悟(二): 关于SSR
 ## 后端相关
 #### Python
 * Python爬虫入门
