@@ -10,7 +10,6 @@
 * [ReactiveCocoa(一) 环境集成(含Xcode8)](https://github.com/QC-L/blog/issues/2)
 * [AFNetworking3.0迁移指南](https://github.com/QC-L/blog/issues/1)
 ## 前端相关
-#### 
 #### React
 * [React系列教程 - learning-react.js](https://github.com/QC-L/learning-react.js)
 * Redux使用指南
@@ -46,6 +45,7 @@
 * AlloyTeam Conf 2017 参会感悟(二): 关于SSR
 ## 后端相关
 #### Python
+* Python基本语法
 * Python爬虫入门
 #### Node.js
 * [Node.js系列教程 - learning-node.js](https://github.com/QC-L/learning-node.js)
