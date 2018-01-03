@@ -55,4 +55,8 @@
 * [ReactNative - 打离线包 (二) 携程Moles-Packer框架命令打包](https://github.com/QC-L/blog/issues/4)
 * [ReactNative - 打离线包 (一) 原生RN命令打包](https://github.com/QC-L/blog/issues/3)
 
+
+## 其他
+* 微信跳一跳 - 分数修改
+
 **注意: 如需转载，请标明出处 https://github.com/QC-L/blog**
