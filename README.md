@@ -57,6 +57,6 @@
 
 
 ## 其他
-* 微信跳一跳 - 分数修改
+* [微信跳一跳小程序 - 修改分数](https://github.com/QC-L/blog/issues/9)
 
 **注意: 如需转载，请标明出处 https://github.com/QC-L/blog**
