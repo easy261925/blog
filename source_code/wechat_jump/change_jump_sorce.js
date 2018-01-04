@@ -8,7 +8,8 @@ var CryptoJS = require('crypto-js')
 var request = require('request-promise')
 
 var score = 1225,  // 要修改的分数
-    times = 1000, // 分数所需时间
+    times = 1071, // 分数所需时间
+    version = 6,  // 版本
     // 你的 session_id
     session_id = ''
 
@@ -49,7 +50,7 @@ function extend (target) {
 
 var headers = {
     'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 MicroMessenger/6.6.1 NetType/WIFI Language/zh_CN',
-    'Referer': 'https://servicewechat.com/wx7c8d593b2c3a7703/5/page-frame.html',
+    'Referer': `https://servicewechat.com/wx7c8d593b2c3a7703/${version}/page-frame.html`,
     'Content-Type': 'application/json',
     'Accept-Language': 'zh-cn',
     'Accept': '*/*',
@@ -85,6 +86,7 @@ request({
     json: true,
     body: base_req
 }).then(function (response) {
+    var times1 = response.base_resp.ts + 3
     path = 'wxagame_init'
     request({
         method: 'POST',
@@ -97,7 +99,7 @@ request({
             musicList = [], // 是否有音乐数组
             touchList = [] // 手指触摸坐标数组
         for (var i = 0; i < score; i++) {
-            let jumpX = Math.random().toFixed(3) 
+            let jumpX = Math.random().toFixed(2) 
             let jumpY = (Math.random() * 2 + 1).toFixed(2)
             let touchX = (Math.random() * (250 - 200) + 200).toFixed(1)
             let touchY = (Math.random() * (560 - 510) + 510).toFixed(1)
@@ -112,7 +114,7 @@ request({
         }
         var data = {
             score: score,
-            times: times, 
+            times: times1, 
             game_data: JSON.stringify({
                 seed: Date.now(),
                 action: action,
