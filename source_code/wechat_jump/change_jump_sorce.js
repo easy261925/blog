@@ -4,10 +4,10 @@
 */
  
 
-var CryptoJS = require('crypto-js'),
-    request = require('request-promise')
+var CryptoJS = require('crypto-js')
+var request = require('request-promise')
 
-var score = 2018,  // 要修改的分数
+var score = 1225,  // 要修改的分数
     times = 1000, // 分数所需时间
     // 你的 session_id
     session_id = ''
