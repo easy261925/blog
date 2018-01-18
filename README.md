@@ -57,6 +57,6 @@
 * [ReactNative - 打离线包 (一) 原生RN命令打包](https://github.com/QC-L/blog/issues/3)
 * Weex 项目实战
 ## 其他
-* [Charles 抓包教程](https://github.com/QC-L/blog/issues/9)
+* [Charles 网络封包截取工具 - HTTP/HTTPS](https://github.com/QC-L/blog/issues/9)
 
 **注意: 如需转载，请标明出处 https://github.com/QC-L/blog**
